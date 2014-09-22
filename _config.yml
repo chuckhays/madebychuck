@@ -1,0 +1,6 @@
+name: "MadeByChuck.com"
+description: "Various projects created by Chuck Hays"
+url: "MadeByChuck.com"
+paginate: 10
+markdown: rdiscount
+permalink: pretty
