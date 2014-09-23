@@ -23,8 +23,8 @@ GitHub: [chuckhays](http://github.com/chuckhays)
    * [Visual Studio Designers](#vstools) - XAML & HTML design tools in Visual Studio
    * [Azure AppPlat](#appPlat) - Office 365 Video Service
 * I'm an avid DIYer. In the past few years I've undertaken some major projects:
-   * Three season porch
-   * Finishing basement
+   * [Three season screen porch](http://gallery.chuckhays.net/Projects/Coachford-Ave/CoachfordHouseporchdeck/)
+   * [Finishing basement](http://gallery.chuckhays.net/Projects/Coachford-Ave/Basement/)
    * Landscaping and gardening
 
 
