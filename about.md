@@ -15,7 +15,7 @@ GitHub: [chuckhays](http://github.com/chuckhays)
 * I am a software engineer located in the Twin Cities, MN. 
 * I am a [co-founder](#reconrobotics) of a miniature robotics company named [ReconRobotics](http://reconrobotics.com).
 * I studied computer science and robotics at the University of Minnesota.
-* My graduate research work was at the [Center for Distributed Robotics](http://distrob.cs.umn.edu), where I was awarded a Master of Science in Computer Science.
+* My graduate research work was done at the [Center for Distributed Robotics](http://distrob.cs.umn.edu), where I was awarded a Master of Science in Computer Science.
 * I worked for Microsoft for 6.5 years as a Senior SDE (software development engineer), from 2008-2014. I worked on several projects:
    * [SketchFlow](#sketchflow)
    * [Blend](#blend) - XAML design tools
@@ -73,7 +73,7 @@ I worked on the visual design tools included inside Visual Studio. The designer 
 <a name="appPlat"></a>
 #### Azure AppPlat - Office 365 Video Service
 
-On the Azure AppPlat team I worked on a team that was creating both an iOS client app and the backend for the new Office 365 Video feature. Office 365 Video is described in the Office 365 road map as:
+On the Azure AppPlat team, I worked on a team that was creating both an iOS client app and the backend for the new Office 365 Video feature. Office 365 Video is described in the Office 365 road map as:
 > Office 365 Video is a secure, company-wide destination for video upload, sharing and discovery, and smooth playback across devices - all powered by Windows Azure Media Services. [Learn More](http://office.microsoft.com/en-us/products/redir/XT104358393.aspx)
 
 I worked on both the iOS client application as well as the Azure service backend. We created a service that was highly available, and globally distributed.
