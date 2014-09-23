@@ -8,7 +8,7 @@ layout: containerlesspage
 			Chuck Hays
 		</h1>
 		<p>
-			Software Engineer. Twin Cities, MN, USA.
+			Software Engineer, builder &amp; tinkerer. Twin Cities, MN, USA.
 		</p>
 	</div>
 </div>
@@ -18,10 +18,10 @@ layout: containerlesspage
 		<div class="col-md-7">
 
 			<div id="home">
-			  <h2>My Recent Posts</h2>
+			  <h2>Recent Posts</h2>
 			  <ul class="posts list-unstyled">
 			    {% for post in site.posts limit: 16 %}
-			      <li><a href="{{ post.url }}">{{ post.title }}</a> &nbsp; <span><small class="text-muted">{{ post.date | date_to_string }}</small></span></li>
+			      <li><a href="{{ post.url }}">{{ post.title }}</a> &nbsp; <span><small class="text-muted">{{ post.date | date: "%Y-%m-%d" }}</small></span></li>
 			    {% endfor %}
 			  </ul>
 			  <p><a href="/posts/">&raquo; Full list of posts</a></p>
@@ -31,38 +31,35 @@ layout: containerlesspage
 
 		<div class="col-md-5">
 			<h3 style="vertical-align: text-top">
-				<img src="img/home-windowsazure.png" style="width: 70px; height: 70px" />
-				Azure Developer Experience
+				<img src="images/msft.png" style="width: 70px; height: 70px" />
+				Microsoft Senior SDE
 			</h3>
-			<p>
-				I'm a Principal SDE Architect on the Azure team at Microsoft, involved with many of our 
-				cloud projects within the development engineering organization. Previously I helped define 
-				a modern direction for the cross-platform, many-language open source Azure SDKs.
-			</p>
+			<p>I worked for Microsoft as a Senior SDE (software development engineer) from 2008-2014, when the St. Paul, MN office (TCDC) was closed due to corporate restructuring.</p>
 
-			<p>
-				Since 2005 I've worked on several startup projects at Microsoft, including shipping 
-				many releases of the XAML runtime (Silverlight plug-in and Windows Phone OS).
-			</p>
+			<p>During that time, I worked on several projects:</p>
+			<ul class="list-unstyled">
+				<li>&raquo; Expression Blend 2, 3 &amp; 4</li>
+				<li>&raquo; SketchFlow</li>
+				<li>&raquo; Blend for Visual Studio 2013 &amp; 2013</li>
+				<li>&raquo; Visual Studio 2012, 2013 &amp; "14" previews</li>
+				<li>&raquo; Azure AppPlat - Office 365 Video iOS app</li>
+				<li>&raquo; Azure AppPlat - Office 365 Video Azure backend service</li>
+			</ul>
 
 			<ul class="list-unstyled">
 				<li><a href="http://www.github.com/chuckhays/">&raquo; My GitHub profile</a></li>
 			</ul>
 
 			<h3>
-				<img src="img/home-4thandmayor.png" style="width: 70px; height: 70px" />
-				4th &amp; Mayor
+				<img src="images/robot_small.jpg" style="width: 70px; height: 70px" />
+				ReconRobotics	
 			</h3>
 			
-			<p>I'm the developer of <a href="http://www.4thandmayor.com/">4th &amp; Mayor</a>, the 
-			#1 top-rated social app on the Windows Phone Store, launched 3/20/2011. The client is backed by cloud services 
-			implemented in Node.js &amp; running on both the Microsoft and Amazon clouds.</p>
+			<p>I'm a co-founder of <a href="http://www.reconrobotics.com/">ReconRobotics Inc.</a>, a robotics company that designs and manufactures tactical micro-robot systems for law enforcement and military personnel that increase situational awareness in order to save lives. More than 4,700 robots have been deployed world wide.</p>
+			
 
 			<ul class="list-unstyled">
-				<li><a href="http://www.4thandmayor.com/">&raquo; 4th &amp; Mayor site</a></li>
-				<li><a href="http://www.windowsphone.com/en-us/store/app/4th-mayor/c7d13b8d-9951-e011-854c-00237de2db9e">&raquo; Download for Windows Phone</a></li>
-				<li><a href="http://www.github.com/jeffwilcox/">&raquo; Select source code on GitHub</a></li>
-				<li><a href="http://www.github.com/jeffwilcox/mpns">&raquo; MPNS Node.js module</a></li>
+				<li><a href="http://www.fastcompany.com/most-innovative-companies/2013/industry/robotics">&raquo; Fast Company's 2013 most innovate robotics companies list (#2)</a></li>
 			</ul>
 
 		</div>
