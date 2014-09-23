@@ -6,8 +6,8 @@ categories: [projects]
 tags: [projects, woodworking, electronics]
 ---
 <div class="row">
-		<a href="/images/oldprojects/lrledtable1.jpg" class="fancybox" rel="clock"><img src="/images/oldprojects/lrledtable1-150x112.jpg" alt="Cutting grooves for clock lines."></a>
-		<a href="/images/oldprojects/lrledtable2.jpg" class="fancybox" rel="clock"><img src="/images/oldprojects/lrledtable2-150x112.jpg" alt="Cutting grooves for clock lines."></a>
+		<a href="/images/oldprojects/lrledtable1.jpg" class="fancybox" rel="clock"><img src="/images/oldprojects/lrledtable1-150x112.jpg" alt="LED table."></a>
+		<a href="/images/oldprojects/lrledtable2.jpg" class="fancybox" rel="clock"><img src="/images/oldprojects/lrledtable2-150x112.jpg" alt="LED table."></a>
 </div>
 
 ### The Idea
