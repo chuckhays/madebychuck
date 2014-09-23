@@ -73,7 +73,7 @@ I worked on the visual design tools included inside Visual Studio. The designer 
 <a name="appPlat"></a>
 #### Azure AppPlat - Office 365 Video Service
 
-On the Azure AppPlat team I worked on a team that was creating both an iOS client app and the backend for the new Office 365 Video feature. Office 365 Video is described in the Office 365 road map as:
+On the Azure AppPlat team, I worked on a team that was creating both an iOS client app and the backend for the new Office 365 Video feature. Office 365 Video is described in the Office 365 road map as:
 > Office 365 Video is a secure, company-wide destination for video upload, sharing and discovery, and smooth playback across devices - all powered by Windows Azure Media Services. [Learn More](http://office.microsoft.com/en-us/products/redir/XT104358393.aspx)
 
 I worked on both the iOS client application as well as the Azure service backend. We created a service that was highly available, and globally distributed.
