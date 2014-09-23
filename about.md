@@ -46,7 +46,7 @@ From the founding through 2008, I was responsible for various hardware and softw
 
 <a name="sketchflow"></a>
 #### SketchFlow
-SketchFlow is a tool that enables you to rapidly create and prototype new ideas and present them to stakeholders for rapid feedback and iteration. It allows you to create prototypes that include interactivity, with as much or as little depth and fidelity as you need.
+SketchFlow is a tool that enables you to quickly create and prototype new ideas and present them to stakeholders for rapid feedback and iteration. It allows you to create prototypes that include interactivity, with as much or as little depth and fidelity as you need.
 
 ![SketchFlow map](../images/sketchflowmap.png "SketchFlow map")
 
