@@ -4,5 +4,5 @@ url: "MadeByChuck.com"
 paginate: 10
 markdown: rdiscount
 permalink: pretty
-lsi: true
+lsi: false
 

@@ -1,9 +1,8 @@
 ---
 layout: post
 comments: true
-title: Hello World
+title: New Website
 categories: [blog, job]
-tags: [jekyll, job]
+tags: [blog, jekyll, job]
 ---
-
-# Hello World
+I'm starting a new website to try out some new technologies, and have a place to write about projects and other various things that interest me. For now, this site is based on [jekyll](http://http://jekyllrb.com/).
