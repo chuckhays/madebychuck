@@ -36,4 +36,4 @@ Each of the gears were cut free-hand, using a scroll saw, and spiral cut blades.
 
 The face piece was made by routing grooves into a piece of black walnut, installing the maple strips, and sanding them flush. The circle was then cut using a circle jig and a router, 2 cuts were made to form the inside and outside surfaces.
 
-The assembly and fitting of all of the gears, bearings, shafts, motor, was tricky to say the least. Fortunately it all came together without any major mistakes.a
+The assembly and fitting of all of the gears, bearings, shafts, motor, was tricky to say the least. Fortunately it all came together without any major mistakes.
