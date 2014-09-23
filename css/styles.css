@@ -1,100 +1,14 @@
-/* jeff.wilcox.name custom css
--------------------------------------------------- */
-
 body {
     padding-bottom: 40px;
     padding-top: 70px;
-    /* padding-top: 90px; */
-}
-
-.navbar-inverse .navbar-inner {
-  background-color: #595959;
-  border-color: #595959;
 }
 
 code, pre {
     color: #333;
 }
 
-/*
-h3 {
-  font-size: 24.5px;
-  color:  #777;
-}
-*/
-/*
-h1 {
-    padding-bottom: 20px;
-    font-size: 24pt;
-}
-*/
-/*
-h2 {
-  font-size: 18pt;
-}
-*/
-
-.nav-tabs > .active > a {
-    background-color: #eee;
-    color:  #333;
-}
-
-.nav-tabs > .active > a:hover {
-    background-color: #eee;
-    color:  #333;
-}
-
-.azure-nav-list {
-    width: 228px;
-    margin: 30px 0 0;
-    padding: 0;
-}
-
-.azure-nav-list > li > a {
-  display: block;
-  width: 190px;
-  margin: 0 0 -1px;
-  padding: 4px 12px;
-}
-
-.azure-nav-list.affix {
-  top: 40px;
-}
-
-.small-sections section {
-    padding-top: 6px;
-}
-
 section {
     padding-top: 42px;
-}
-
-.twitter-cards > tbody > tr > td > h4,
-.twitter-cards > tbody > tr > td > p {
-    text-align: center;
-}
-
-.twitter-cards > tbody >tr > td {
-    width: 33%;
-}
-
-.social {
-  text-align: center;
-}
-
-.social-buttons {
-  margin-left: 0;
-  margin-bottom: 0;
-  padding-left: 0;
-  list-style: none;
-}
-
-.social-buttons li {
-  display: inline-block;
-  padding: 5px 8px;
-  line-height: 1;
-  *display: inline;
-  *zoom: 1;
 }
 
 /* Make tables spaced out a bit more */
