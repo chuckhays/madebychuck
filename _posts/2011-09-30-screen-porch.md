@@ -27,7 +27,7 @@ The plan was to build a screen porch with a smaller uncovered deck to the side. 
 
 Our house had a small bump out on the back that was a perfect place to extend the roof line out into the yard, which simplified tying the roof into the existing structure.
 
-Various people helped with labor throughout the project, so when I say we below, I mean me and the wonderful people who helped me out (Rick, Adam, others).
+Various people helped with labor throughout the project, so when I say "we" below, I mean me and the wonderful people who helped me out (Rick, Adam, others).
 
 We first removed the sod and built a traditional deck base, although it was much heavier duty due to the design of the structure it would support. We also added screening below the deck boards to keep bugs out from below.
 
@@ -35,7 +35,7 @@ The next step was the start building the roof structure. This was an interesting
 
 Once the post and beam were up, we built the rest of the walls around it, and then added the roof rafters. All of the roof rafters were rough cut cedar and exposed.
 
-Next we added the ceiling material/roof decking. It was made with pre-finished cedar toungue and groove boards and left exposed. On top of that went sheathing, and a traditional shingle roof to match the rest of the house. Metal fascia/soffit and gutters were installed the roofing was completed.
+Next we added the ceiling material/roof decking. It was made with pre-finished cedar tongue and groove boards and left exposed. On top of that went sheathing, and a traditional shingle roof to match the rest of the house. Metal fascia/soffit and gutters were installed the roofing was completed.
 
 Before the final trim went up, I wired the lights/outlets on the porch. There is a ceiling fan/light hung from the main beam, several outlets around the porch, and flood lights for the yard mounted on each corner of the exterior. At some point in the project I also ran speaker wire from the porch walls to my living room entertainment center for outdoor speakers.
 
