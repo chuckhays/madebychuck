@@ -3,6 +3,10 @@ body {
     padding-top: 70px;
 }
 
+p {
+	text-align: justify;
+}
+
 code, pre {
     color: #333;
 }
