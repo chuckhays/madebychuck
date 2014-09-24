@@ -1,0 +1,8 @@
+---
+layout: null
+permalink: .htaccess
+---
+RewriteEngine On
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule (.*) /404.html [L]
