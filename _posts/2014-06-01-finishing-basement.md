@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Finishing the basement
+title: Finishing the Basement
 categories: [homeimprovement]
 tags: [homeimprovement]
 ---
