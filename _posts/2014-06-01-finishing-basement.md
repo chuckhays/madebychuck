@@ -4,6 +4,18 @@ title: Finishing the basement
 categories: [homeimprovement]
 tags: [homeimprovement]
 ---
+<div class="row">
+		<a href="/images/basement/20131212_151243.jpg" class="fancybox" rel="clock"><img src="/images/basement/20131212_151243t.jpg" alt="Loading lumber in the snow."></a>
+		<a href="/images/basement/img_4526.jpg" class="fancybox" rel="clock"><img src="/images/basement/img_4526t.jpg" alt="First day."></a>
+		<a href="/images/basement/img_4527.jpg" class="fancybox" rel="clock"><img src="/images/basement/img_4527t.jpg" alt="Framing first day."></a>
+		<a href="/images/basement/img_4760.jpg" class="fancybox" rel="clock"><img src="/images/basement/img_4760t.jpg" alt="Little helper."></a>
+		<a href="/images/basement/img_4807.jpg" class="fancybox" rel="clock"><img src="/images/basement/img_4807t.jpg" alt="Spray foam completed."></a>
+		<a href="/images/basement/img_4774.jpg" class="fancybox" rel="clock"><img src="/images/basement/img_4774t.jpg" alt="Shower floor."></a>
+		<a href="/images/basement/img_4706.jpg" class="fancybox" rel="clock"><img src="/images/basement/img_4706t.jpg" alt="Framing completed."></a>
+		<a href="/images/basement/img_0487.jpg" class="fancybox" rel="clock"><img src="/images/basement/img_0487t.jpg" alt="Living room."></a>
+		<a href="/images/basement/img_0382.jpg" class="fancybox" rel="clock"><img src="/images/basement/img_0382t.jpg" alt="Bathroom."></a>
+		<a href="/images/basement/img_0265.jpg" class="fancybox" rel="clock"><img src="/images/basement/img_0265t.jpg" alt="Living room A/V cabinets."></a>
+</div>
 
 [Photo Gallery](http://gallery.chuckhays.net/Projects/Coachford-Ave/Basement)
 
