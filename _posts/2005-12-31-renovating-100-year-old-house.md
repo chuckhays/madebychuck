@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Renovating a 100 Year Old Duplex
 categories: [homeimprovement]
 tags: [homeimprovement]

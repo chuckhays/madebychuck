@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Finishing the Basement
 categories: [homeimprovement]
 tags: [homeimprovement]

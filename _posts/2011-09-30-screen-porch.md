@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Building a Screen Porch
 categories: [homeimprovement]
 tags: [homeimprovement]
