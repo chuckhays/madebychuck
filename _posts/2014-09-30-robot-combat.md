@@ -23,6 +23,8 @@ tags: [robots]
 
 For several years during college I built robots for robot combat events. I mostly competed in a local competition called Twin Cities Mech Wars. It was a dedicated group of volunteers that managed to put together a number of annual events, before finally folding as interest in the "sport" waned.
 
+I certainly learned a lot, and got to use a number of interesting tools and technologies. In the later robots, I used the OSMC control boards, which were an early form of open source hardware design. It was fascinating to learn about the huge forces involved, and the large amounts of current required in momentary surges as motors go from 0 to full torque in an extremely short period of time. Just writing about it makes me want to go hack another one together!
+
 My memories of all of the various events are fuzzy, but I'll recall them as best I can remember.
 
 Our first robot was named Spin Cycle. Our team consisted of a couple of college students that got together to see if we could hack something together. We did, it wasn't very good. We scavenged some old wheelchair motors, some small plastic bike tires, and some self built relay based motor controllers and electronics. It worked, barely. We could go forward, back, or spin in either direction, but only at full speed. Fortunately and unfortunately, full speed wasn't very fast. Spin Cycle got beat pretty badly, but we had fun, and were excited to try again. We also learned that plastic and wood were not sufficient materials.
