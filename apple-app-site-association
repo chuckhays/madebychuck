@@ -1,0 +1,31 @@
+{
+   "applinks":{
+      "apps":[
+
+      ],
+      "details":[
+         {
+            "appID":"EQHXZ8M8AV.com.google.Tachyon.dev",
+            "paths":[
+               "NOT /install/abc/*",
+               "/install/*",
+               "/install"
+            ]
+         },
+         {
+            "appID":"4ANB9W7R3P.com.google.Tachyon.enterprise",
+            "paths":[
+               "NOT /install/abc/*",
+               "/install/*"
+            ]
+         },
+         {
+            "appID":"EQHXZ8M8AV.com.google.Tachyon",
+            "paths":[
+               "NOT /install/abc/*",
+               "/install/*"
+            ]
+         }
+      ]
+   }
+}
